@@ -1,4 +1,4 @@
-# Assign2_Resume-Information-Extractor
+# Assignment 2 - Resume-Information-Extractor
 ## 📄 Resume Information Extractor
 
 This project is an AI-powered Resume Information Extractor that converts unstructured resume PDFs into structured JSON format using LangChain, Ollama (Llama3 – Local LLM), JsonOutputParser, and Pydantic schema validation.
